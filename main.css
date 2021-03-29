@@ -24,6 +24,8 @@ body {
     width: 40%;
     padding: 40px;
     background-color: #0051a9;
+    background-image: url(./img/background.jpeg);
+    background-size: cover;
     position: absolute;
     top: 30px;
     left: 0;
